@@ -1,0 +1,15 @@
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.AssemblyInfoInputs.cache
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.AssemblyInfo.cs
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.exe
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.deps.json
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.runtimeconfig.json
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.runtimeconfig.dev.json
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.dll
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\bin\Debug\net5.0\SmpFinderConsole.pdb
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.dll
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\refint\SmpFinderConsole.dll
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.pdb
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\SmpFinderConsole.genruntimeconfig.cache
+C:\Users\Kerem\source\repos\SmpFinderConsole\SmpFinderConsole\obj\Debug\net5.0\ref\SmpFinderConsole.dll

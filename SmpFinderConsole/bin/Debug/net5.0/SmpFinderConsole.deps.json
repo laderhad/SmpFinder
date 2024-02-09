@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SmpFinderConsole/1.0.0": {
+        "runtime": {
+          "SmpFinderConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmpFinderConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
